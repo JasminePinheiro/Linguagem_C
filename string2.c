@@ -9,7 +9,7 @@ int main() {
 //Usaremos a função strlen "str (string) len (length = comprimento)"
     setlocale(LC_ALL,"Portuguese");
     int i;
-    char palavra[20] = {"Oi"};
+    char palavra[20];
     printf("Digite algo: ");
     fgets(palavra,20,stdin);
     printf("%s",palavra);
