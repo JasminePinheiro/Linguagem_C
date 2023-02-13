@@ -4,7 +4,7 @@
 
 // Aula 148: Variáveis locais, globais e escopo de variáveis
 
-int idade2 = 35; //Variável Global e seu escopo é global
+int idade2 = 35; //É uma variável Global e seu escopo é global
 
 
 void imprimir(int id) {
